@@ -1,0 +1,93 @@
+.root {
+
+  width: 100%;
+  height: 200px;
+}
+
+.login {
+  width: 100%;
+}
+.nav {
+  margin-top: 30px;
+  font-size:12px;
+  padding-bottom:15px;
+}
+.li{
+  width:100%; height:30px;
+}
+.item1 {
+  width:100%;
+  border-bottom:1px solid #e5e5e5;
+  margin-bottom:-15px;
+}
+.a {
+  width:100%;
+  display:block;
+  text-decoration:none;
+  padding:6px 5px;
+  text-align:center;
+
+}
+.span{
+  background:#FBFBFB;
+  border:1px solid red;
+  padding:6px 16px;
+  color: red;
+  border-radius:10px 10px 10px 10px;
+
+}
+.image {
+  width: 100px;
+  height: 36px;
+  margin-left: 10px;
+}
+.login1 {
+  height: 36px;
+
+}
+.login2 {
+  height: 200px;
+  background-color: #434a54;
+  color: #ffffff;
+}
+.rotext {
+ height: 20px;
+}
+.cotext {
+  margin-top: 30px;
+}
+.login3 {
+  margin-left: 10px;
+  margin-right: 50px;
+}
+.image1 {
+  height: 35px;
+  width: 30px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.rocol {
+  margin-top: 10px;
+}
+.image2 {
+  width: 90px;
+  height: 90px;
+  margin-top: 10px;
+}
+.login4 {
+  text-align:right;
+  margin-top: 20px;
+}
+.image3 {
+  width: 200px;
+  height: 30px;
+
+
+}
+.text {
+  margin-top: 10px;
+}
+
+.login41 {
+  margin-top: 30px;
+}

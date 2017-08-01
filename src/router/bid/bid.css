@@ -1,0 +1,254 @@
+.root {
+
+  background-color: #ffffff;
+}
+.login {
+  margin-right: 70px;
+  margin-left: 70px;
+  border:1px solid #cccccc;
+}
+.root1 {
+  height: 20px;
+}
+.login1 {
+  margin-top: 20px;
+}
+.text {
+  font-size: 23px;
+ text-align: right;
+  color: #666666;
+}
+.image {
+  height: 24px;
+  width: 22px;
+}
+.col {
+  text-align: center;
+  margin-top: 4px;
+}
+.col1 {
+  margin-top: 4px;
+}
+.login2 {
+  margin-top: 12px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.login3 {
+  height: 60px;
+  text-align: center;
+}
+.text1 {
+  font-size: 18px;
+  color: #f04e1d;
+  margin-left: 6px;
+  margin-right: 6px;
+}
+.login4 {
+  height: 50px;
+  text-align: center;
+  border-bottom: 1px dashed #dddddd;
+  border-top: 1px dashed #dddddd;
+
+}
+.login5 {
+  border-right: 1px solid #dddddd;
+  margin-top: 6px;
+}
+
+.login6 {
+  margin-top: 6px;
+}
+.text6 {
+  font-size: 7px;
+  color: #666666;
+
+}
+.text61 {
+  font-size: 7px;
+  color: #999999;
+
+}
+.login7 {
+  margin-top: 20px;
+  text-align: center;
+}
+.text7 {
+  font-size: 14px;
+  color: white;
+}
+.icon {
+  margin-top: 20px;
+ text-align: right;
+}
+.icon1 {
+  color: #f04e1d;
+  font-size: 7px;
+}
+.icon2 {
+  margin-top: 20px;
+  text-align: right;
+}
+.login8 {
+  margin-top: 10px;
+  margin-left: 44px;
+}
+.div9 {
+  margin-top: 10px;
+}
+.icon9 {
+  color: #f04e1d;
+  font-size: 18px;
+}
+.text9 {
+  font-size: 9px;
+  color: #666666;
+}
+.input {
+  width: 80px;
+  height: 20px;
+  margin-right: 10px;
+}
+.login10 {
+  margin-top: 10px;
+  margin-left: 60px;
+  margin-right: 30px;
+}
+.button {
+  height: 30px;
+  width: 100%;
+}
+.xdiv {
+  margin-top: 20px;
+  height: 30px;
+  background-color: #fbfbef
+}
+.img {
+  height: 20px;
+  width: 80px;
+
+
+}
+.img1 {
+
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.img2 {
+  text-align: right;
+  margin-top: 6px;
+}
+.stext {
+  font-size: 9px;
+  color: #666666;
+}
+.mlogin {
+  height: 700px;
+  margin-left: 70px;
+  margin-right: 70px;
+  border-top:1px solid #dddddd;
+  border-right:1px solid #dddddd ;
+  border-left: 1px solid #dddddd;
+  margin-bottom: 20px;
+}
+.mlogin1 {
+  height: 32px;
+  line-height:30px;
+  background-color: #e7e7e7;
+
+}
+.mlogin2 {
+  border-bottom: 0px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.mdiv1 {
+  margin-top: 30px;
+}
+.mboder {
+  height: 20px;
+  line-height: 20px;
+  border-left: 2px solid #f04e1d;
+}
+.mtext {
+  font-size: 18px;
+  margin-left: 10px;
+  color: #000000;
+}
+.mtext {
+  font-size: 14px;
+  margin-left: 10px;
+  color: #666666;
+}
+.mdiv2 {
+  margin-left: 20px;
+  margin-right: 20px;
+  height: 60px;
+  line-height: 60px;
+
+}
+.mdiv3 {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 16px;
+  text-align: center;
+
+}
+.mdiv4 {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+
+}
+.mxycol {
+  text-align: right;
+}
+.mxy {
+  margin-top: 20px;
+}
+.cpxz {
+  margin-left: 20px;
+  font-size: 16px;
+}
+.cpxz1 {
+  font-size: 16px;
+}
+.mtextone {
+  font-size: 16px;
+
+  color: #000000;
+}
+.xxtt {
+  font-size: 16px;
+
+  margin-right: 20px;
+
+}
+.mdiv11 {
+  height: 20px;
+}
+.spin{
+  text-align: center;
+}
+.daojishi {
+  height: 20px;
+  background-color: #434a54;
+  line-height: 20px;
+}
+.qingg {
+  font-size: 14px;
+  color: #f04e1d;
+  margin-left: 10px;
+}
+.model {
+  margin-left: 6rem;
+  margin-right: 6rem;
+ text-align: center;
+}
+.modelinput {
+  height: 2rem;
+}
+.modeltitle {
+  text-align: center;
+}

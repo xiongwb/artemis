@@ -1,0 +1,18 @@
+.header {
+  width:100%;
+  top:0;
+  left:0;
+  z-index:99;
+ height: 100px;
+
+}
+.content {
+  margin-top: 10px;
+}
+.foot {
+  width:100%;
+  position:fixed;
+  bottom:0;
+  left:0;
+  z-index:99;
+}

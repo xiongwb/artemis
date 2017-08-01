@@ -1,0 +1,50 @@
+.root {
+  background-color: #eeeeee;
+  height: 800px;
+}
+.root1 {
+  background-color: #eeeeee;
+  height: 80px;
+}
+.register {
+  background-color: white;
+  margin-left: 40px;
+  margin-right: 40px;
+  height: 500px;
+  border-radius: 0px 0px 6px 6px;
+
+}
+.leftDiv {
+  padding: 100px 50px;
+  float: left;
+}
+.input {
+  width: 400px;
+}
+.check {
+  margin-left: 100px;
+}
+
+.rightDiv {
+  text-align: center;
+  margin-top: 160px;
+
+}
+
+.spin{
+  text-align: center;
+}
+.div {
+  background-color: #f04e1d;
+  height: 30px;
+  line-height: 30px;
+  border-radius: 6px 6px 0px 0px;
+  margin-left: 40px;
+  margin-right: 40px;
+
+}
+.text {
+  margin-left: 10px;
+  font-size: 14px;
+  color: #ffffff;
+}

@@ -1,0 +1,25 @@
+.root {
+  background-color: #eeeeee;
+
+  height: 800px;
+}
+.progress {
+  padding-top: 80px;
+  margin: 0px 250px;
+}
+.register {
+  background-color: white;
+  margin: 80px 100px;
+  height: 500px;
+}
+.leftDiv {
+  margin-left: 100px;
+  padding: 100px 50px;
+  float: left;
+  width: 400px;
+}
+.rightDiv {
+  float: left;
+  padding: 100px 50px;
+}
+

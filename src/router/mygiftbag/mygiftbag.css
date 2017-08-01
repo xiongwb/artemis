@@ -1,0 +1,36 @@
+.root {
+
+  background-color: #ffffff;
+}
+.title {
+  margin-top: 20px;
+  text-align: center;
+  margin-right: 40px;
+  margin-left: 40px;
+}
+.title1 {
+  font-size: 16px;
+
+}
+.title2 {
+  font-size: 16px;
+  color: #0166ff;
+
+}
+.wdiv {
+  height: 300px;
+
+  text-align: center;
+}
+.wdiv2 {
+ margin-top: 80px;
+
+}
+.wdiv3 {
+  margin-top: 20px;
+
+}
+.text {
+  font-size: 18px;
+
+}

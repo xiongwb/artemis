@@ -1,0 +1,25 @@
+.root {
+  text-align: right;
+}
+.tag {
+  margin-top: 4px;
+}
+.biaoq {
+  text-align: right;
+}
+.biaoq1 {
+  margin-left: 10px;
+  font-size: 18px;
+}
+.biaoq2 {
+  margin-left: 10px;
+  font-size: 10px;
+  margin-top: 4px;
+}
+.login3 {
+  height: 30px;
+  line-height:30px;
+  overflow: hidden;
+  border-bottom:1px dashed #dddddd;
+
+}

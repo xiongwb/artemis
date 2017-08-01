@@ -1,0 +1,25 @@
+.background {
+  background-color: #f9f7f8;
+  height: 10px;
+}
+.whiteDiv {
+  padding: 50px 150px;
+}
+
+.root {
+  background-color: #ffffff;
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.root h1 {
+  text-align: center;
+  color: #0098de;
+}
+.root h3 {
+  color: #5ec2f4;
+  padding: 20px 0px;
+}
+.root p {
+  color: #656565;
+}

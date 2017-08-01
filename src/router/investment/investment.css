@@ -1,0 +1,118 @@
+.root {
+
+  background-color: #ffffff;
+
+}
+.jul {
+  height: 20px;
+  background-color: #ffffff;
+}
+.login {
+  height: 150px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border:1px solid #ffe7cf;
+}
+.login1 {
+  height: 32px;
+
+  line-height:30px;
+  background-color: #ffe7cf;
+
+}
+.login2 {
+
+  border-bottom: 0px;
+  margin-left: 45px;
+  margin-right: 45px;
+}
+.title {
+  text-align:right;
+}
+.login3 {
+  height: 30px;
+  line-height:30px;
+  overflow: hidden;
+  border-bottom:1px dashed #dddddd;
+
+}
+.ytext {
+  color: #0166ff;
+  text-decoration:underline;
+  font-size: 10px;
+  margin-left: 10px;
+
+}
+
+.yimage {
+  height: 16px;
+  width: 16px;
+
+}
+.yimage1 {
+  margin-top: 5px;
+}
+.ym {
+  height: 40px;
+  line-height: 40px;
+  width:100%;
+}
+
+.bh1 {
+  height: 34px;
+  width: 100%;
+  border-bottom:0.1px solid #e5e5e5;
+  border-top: 0.1px solid #e5e5e5;
+  margin-top: 20px;
+}
+.login5 {
+  height: 30px;
+  line-height: 30px;
+}
+.image {
+  text-align: right;
+  margin-top: 4px;
+
+}
+.image1 {
+  height: 20px;
+  width: 20px;
+}
+.ttext {
+  margin-left: 10px;
+}
+.xlogin {
+  text-align: center;
+  border-top:1px solid #dddddd;
+  height: 80px;
+}
+.xlogin1 {
+  margin-top: 20px;
+}
+td.title {
+  text-align: center;
+  padding: 16px !important;
+  border-bottom: 0px !important;
+
+}
+th.title {
+  background-color:#ededed!important;
+  text-align: center!important;
+  color:#000000!important;
+  padding: 8px !important;
+}
+.biaoq {
+  text-align: right;
+}
+.biaoq1 {
+  margin-left: 10px;
+  font-size: 18px;
+}
+.biaoq2 {
+  margin-left: 10px;
+  font-size: 10px;
+  margin-top: 4px;
+}
+.spin{
+  text-align: center;
+}

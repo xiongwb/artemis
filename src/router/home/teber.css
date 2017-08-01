@@ -1,0 +1,46 @@
+.tbroot {
+
+margin-top: 20px;
+
+}
+
+.tbtext {
+  text-align: center;
+  width: 100%;
+  background-color: #ededed;
+  height: 22px;
+}
+.tbtext1 {
+  height:22px;
+  line-height:22px;
+font-size: 10px;
+  color: #000000;
+
+
+}
+.tblogin {
+  text-align: center;
+  width: 100%;
+  background-color: #ffffff;
+  height: 60px;
+}
+.tblogin1 {
+  height:60px;
+  line-height:60px;
+  font-size: 10px;
+  color: #000000;
+
+
+}
+
+.tbtext3 {
+  font-size: 14px;
+  color: #101010;
+  text-align: center;
+}
+.tblogin2 {
+  margin-top: 10px;
+}
+.tblogin3 {
+  margin-top: 14px;
+}
